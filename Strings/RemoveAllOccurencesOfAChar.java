@@ -1,3 +1,4 @@
+//M1- We can also replace the occurences with "" to remove the occurences of guven char in string 
 import java.util.*;
 public class Strings {
 	public static void main(String[] args) {
